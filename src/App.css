@@ -1,0 +1,24 @@
+.signin input {
+  display: block;
+  padding: 10px;
+  width: 30%;
+  margin-bottom: 5px;
+}
+
+.signin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.signup-buttons {
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu {
+  display: flex;
+  justify-content: flex-end;
+}
